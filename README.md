@@ -1,4 +1,4 @@
-# New_2x2_Solver
+# new-2x2-optimal-solver
 
 Copy the scrambles you want to solve into scrambles.txt, one scramble per line.
 Solution, length, and runtime for each scramble will be written into solutions.txt.
