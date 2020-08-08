@@ -1,0 +1,500 @@
+Solution: R' U F2 U F2 R F' R F' U'               Length: 10              Run time: 0.734375
+Solution: R F2 U2 F' R2 F U' R               Length: 8              Run time: 0.109375
+Solution: U' R2 U F' R2 U2 F2               Length: 7              Run time: 0.0625
+Solution: U R' F2 R' U R2 U F' U2               Length: 9              Run time: 0.203125
+Solution: R F' U F' R F' R' U2 F U'               Length: 10              Run time: 0.71875
+Solution: F' U' R' U' R U' R2 U'               Length: 8              Run time: 0.109375
+Solution: F' R' F' U R2 F' R' F2 U'               Length: 9              Run time: 0.15625
+Solution: F R U' R2 U' F R' U               Length: 8              Run time: 0.09375
+Solution: F U F R2 F R' F2 U2 R2 U'               Length: 10              Run time: 0.734375
+Solution: R' F R' U R2 U F R'               Length: 8              Run time: 0.125
+Solution: F' R' U R2 F2 U R' U2 R2               Length: 9              Run time: 0.296875
+Solution: F' U2 F' R' F2 R' F2 R               Length: 8              Run time: 0.125
+Solution: U2 F2 U F U2 F R2 F' U               Length: 9              Run time: 0.1875
+Solution: F U' F R U2 F' U R2 U2               Length: 9              Run time: 0.1875
+Solution: F' U R U R U' F2 R2 U'               Length: 9              Run time: 0.15625
+Solution: F2 R2 F' R U' F U' F' U'               Length: 9              Run time: 0.15625
+Solution: R U F R' U2 F2 U' R2 U               Length: 9              Run time: 0.171875
+Solution: F' R' U F' R F' U' F U2               Length: 9              Run time: 0.21875
+Solution: R' F' U R U2 F' U R2 U               Length: 9              Run time: 0.15625
+Solution: R' U F R2 U' F R2 F R U'               Length: 10              Run time: 0.8125
+Solution: R2 F R F' R' U2 R' U               Length: 8              Run time: 0.109375
+Solution: R2 F2 U R' F2 U R U R               Length: 9              Run time: 0.265625
+Solution: R F2 U' R2 U F2 U' R U               Length: 9              Run time: 0.171875
+Solution: R U2 R F' U F' U2 F' U2               Length: 9              Run time: 0.21875
+Solution: F2 R2 F R' U2 R F2 U               Length: 8              Run time: 0.109375
+Solution: R U' R2 U F' U R' U R' U'               Length: 10              Run time: 0.875
+Solution: U2 R' U R F R' F R'               Length: 8              Run time: 0.140625
+Solution: U2 R' U' F' R2 U2 R' F               Length: 8              Run time: 0.125
+Solution: U' F2 U' F' U2 F' U' R U' R'               Length: 10              Run time: 0.8125
+Solution: F2 U R U' F R' U F' U'               Length: 9              Run time: 0.203125
+Solution: F' R F' U2 F2 U' F2 U' F U2               Length: 10              Run time: 0.96875
+Solution: F2 R2 U2 R' F U' R F2 R'               Length: 9              Run time: 0.25
+Solution: F2 U' R' U2 R F' U R U               Length: 9              Run time: 0.171875
+Solution: U' F2 U F U2 F2 R' F' R               Length: 9              Run time: 0.3125
+Solution: R' F U' R' U2 R' F2 R U2               Length: 9              Run time: 0.21875
+Solution: F2 U2 R2 F' R               Length: 5              Run time: 0.0
+Solution: R F U2 R2 F' R F U' F               Length: 9              Run time: 0.375
+Solution: F' U' R F' R F' U               Length: 7              Run time: 0.03125
+Solution: R' U' R2 U R2 U' R U' F2               Length: 9              Run time: 0.46875
+Solution: F' R2 U F2 U R2 F'               Length: 7              Run time: 0.0625
+Solution: U R' F U' F2 U' F2 R' F2               Length: 9              Run time: 0.46875
+Solution: U2 F' U' R' F U R               Length: 7              Run time: 0.0625
+Solution: U2 F U' F R2 U2 F' U               Length: 8              Run time: 0.109375
+Solution: R2 F2 U' R U2 R U F' U R'               Length: 10              Run time: 0.796875
+Solution: R' U' F' U2 R F2 R2 U' F' U'               Length: 10              Run time: 0.796875
+Solution: F2 R' F R' F2 U F2 U2               Length: 8              Run time: 0.109375
+Solution: F' U F U' F U2 F' U R'               Length: 9              Run time: 0.21875
+Solution: U2 R F' U F' U2 R2               Length: 7              Run time: 0.046875
+Solution: F' R' F' R2 U2 F U' R2 U'               Length: 9              Run time: 0.15625
+Solution: U2 R' U2 F R' U R2 U' F2               Length: 9              Run time: 0.375
+Solution: R U F2 R' U' F' R U2 R               Length: 9              Run time: 0.25
+Solution: F U F2 U R' F' U' F R' U'               Length: 10              Run time: 0.765625
+Solution: U F2 R U' R U' F' U F2               Length: 9              Run time: 0.40625
+Solution: R' F U R' F R' F R' F               Length: 9              Run time: 0.34375
+Solution: F2 R' F' U2 R U' R' U2 R2               Length: 9              Run time: 0.296875
+Solution: U2 F' U R2 U F2 U' R' U               Length: 9              Run time: 0.171875
+Solution: F U F2 U' F R' U F U               Length: 9              Run time: 0.1875
+Solution: F R F' R2 F2 U2 F' R'               Length: 8              Run time: 0.109375
+Solution: F2 R2 U' F R U' R2 F R'               Length: 9              Run time: 0.234375
+Solution: F U F2 R2 F R' U' F R' U'               Length: 10              Run time: 0.703125
+Solution: U R' U R F' U F2 R' F'               Length: 9              Run time: 0.3125
+Solution: U2 R' U F' U' F U2 R'               Length: 8              Run time: 0.09375
+Solution: R U F' U' F U' R' U               Length: 8              Run time: 0.109375
+Solution: F' U2 F U' R2 F2 R' U2               Length: 8              Run time: 0.09375
+Solution: F' R' F U' F2 U' F' R'               Length: 8              Run time: 0.125
+Solution: F' R2 F U' F R F' R F               Length: 9              Run time: 0.34375
+Solution: U F2 R2 F R F' U2 F U'               Length: 9              Run time: 0.15625
+Solution: U' F' R U' F2 R2 U R' U'               Length: 9              Run time: 0.15625
+Solution: U2 F' U' R' F' R2 F2 R' F' U               Length: 10              Run time: 0.71875
+Solution: R' U' R2 U2 R' U' R' F' U               Length: 9              Run time: 0.171875
+Solution: F2 R U R' F2 U2 R' F R'               Length: 9              Run time: 0.234375
+Solution: R' U R2 U2 R' F R2 U' F2 U'               Length: 10              Run time: 0.6875
+Solution: F R' U2 F' R' U' F U' R' U               Length: 10              Run time: 0.71875
+Solution: R2 F2 U' R U F' R F R               Length: 9              Run time: 0.25
+Solution: U R U' F' U2 F' R2 F R'               Length: 9              Run time: 0.25
+Solution: F2 R U R F' R2 U' R F               Length: 9              Run time: 0.328125
+Solution: F' R F' U' R2 U R' F U'               Length: 9              Run time: 0.140625
+Solution: U R2 F2 R' F' U2 R' U' R               Length: 9              Run time: 0.234375
+Solution: U2 F' R U R' U F' R2 U               Length: 9              Run time: 0.15625
+Solution: U2 R' U2 F' U F2 U2 F' R U               Length: 10              Run time: 0.703125
+Solution: R U2 F' R F2 U R' U2               Length: 8              Run time: 0.09375
+Solution: R2 U2 R' F' R U R' U F U'               Length: 10              Run time: 0.703125
+Solution: R' F R F' U2 R F U2               Length: 8              Run time: 0.09375
+Solution: R2 U R U F2 U R2 U'               Length: 8              Run time: 0.09375
+Solution: R2 F' U F U2 R' U F' U'               Length: 9              Run time: 0.140625
+Solution: U2 F' R2 U2 F' R' F2 U               Length: 8              Run time: 0.109375
+Solution: R U2 R' U R U' F2 R F'               Length: 9              Run time: 0.3125
+Solution: U2 F' U F2 R' F' U' R2               Length: 8              Run time: 0.125
+Solution: R2 F2 R' F U2 F R2 F' R U               Length: 10              Run time: 0.703125
+Solution: R F U2 R2 F' R' U2               Length: 7              Run time: 0.03125
+Solution: F' R U' F2 U' F2 R' F'               Length: 8              Run time: 0.125
+Solution: R U' R2 U2 F2 R' U' F'               Length: 8              Run time: 0.109375
+Solution: U2 R' U' F R U' R2 U' F U'               Length: 10              Run time: 0.703125
+Solution: R' F' R2 F2 U F' R' U R' U               Length: 10              Run time: 0.703125
+Solution: F U F' U F2 R' U F' R' U               Length: 10              Run time: 0.6875
+Solution: F' R U F' R U' F2 U' R2               Length: 9              Run time: 0.265625
+Solution: R U2 F2 R U R2 F' U2               Length: 8              Run time: 0.109375
+Solution: R' F R' U F2 R2 U F' R'               Length: 9              Run time: 0.21875
+Solution: F' R2 U2 R U' F' R U2 F'               Length: 9              Run time: 0.296875
+Solution: R F' R' U' R U2 F' R2               Length: 8              Run time: 0.109375
+Solution: R' F2 U2 F U' F2 U' R2 U               Length: 9              Run time: 0.15625
+Solution: F' U2 R2 F U' R F2 R2               Length: 8              Run time: 0.109375
+Solution: F R2 F' U2 R F U' R F'               Length: 9              Run time: 0.3125
+Solution: U' R2 F2 U' R' F' U'               Length: 7              Run time: 0.03125
+Solution: F R2 F U' R2 F2 R'               Length: 7              Run time: 0.03125
+Solution: R U R U2 F' R2 U' R'               Length: 8              Run time: 0.09375
+Solution: F2 R2 U R' F' U2 R F' R2               Length: 9              Run time: 0.28125
+Solution: R2 U' R' U2 F R F2 R F2 U               Length: 10              Run time: 0.734375
+Solution: U2 F2 U' F R U' F R' F2               Length: 9              Run time: 0.359375
+Solution: F U R2 F' R U R' F' U               Length: 9              Run time: 0.171875
+Solution: R' F' R U' F' U R2 F'               Length: 8              Run time: 0.109375
+Solution: F R U2 R U' F U R2 U               Length: 9              Run time: 0.171875
+Solution: R U2 F' R' U' F2 U' F2 R2               Length: 9              Run time: 0.296875
+Solution: R' F' R2 F R2 F2 U2 F' U               Length: 9              Run time: 0.15625
+Solution: F2 R2 U F' R F2 R U               Length: 8              Run time: 0.09375
+Solution: F2 R2 F R' F2 U' F U F' U'               Length: 10              Run time: 0.71875
+Solution: F2 R F' U' F U2 F U2 R'               Length: 9              Run time: 0.203125
+Solution: F2 R2 U' F' R F' R' U2 R'               Length: 9              Run time: 0.21875
+Solution: F2 R U' F2 R2 F' U' R' U               Length: 9              Run time: 0.15625
+Solution: F' U2 R' U2 R F U2 R2               Length: 8              Run time: 0.109375
+Solution: R F U' F R' U R' F2 U               Length: 9              Run time: 0.1875
+Solution: U2 R' U' F U' R' U' R F2 U2               Length: 10              Run time: 0.75
+Solution: F U2 F R' U R F               Length: 7              Run time: 0.046875
+Solution: F' U2 R' U F' U F R U'               Length: 9              Run time: 0.125
+Solution: F' R2 U F' R U F' U2               Length: 8              Run time: 0.109375
+Solution: F' R F R U' R'               Length: 6              Run time: 0.015625
+Solution: U2 F2 R2 U R F2 U2 R               Length: 8              Run time: 0.09375
+Solution: F2 R' U F2 R' F2 R' U' F U'               Length: 10              Run time: 0.703125
+Solution: F R' F2 U R' U' F2 U'               Length: 8              Run time: 0.109375
+Solution: U' F2 U2 R2 U' R' F' U'               Length: 8              Run time: 0.09375
+Solution: U2 F' R' F R' F' U' F U'               Length: 9              Run time: 0.140625
+Solution: R2 F2 U' R' U2 R2 F' R' U'               Length: 9              Run time: 0.140625
+Solution: U2 R2 F2 U R U2 R U2 F U'               Length: 10              Run time: 0.703125
+Solution: R' F' R F2 R' F' R U' R'               Length: 9              Run time: 0.21875
+Solution: U2 F U2 F U R2 F' U' R2               Length: 9              Run time: 0.265625
+Solution: R F2 R' U2 R' F R2 U'               Length: 8              Run time: 0.09375
+Solution: F' U2 F' U2 R' F R'               Length: 7              Run time: 0.03125
+Solution: R2 U R2 U' F2 U' F U' F'               Length: 9              Run time: 0.296875
+Solution: U2 R U' F R2 U' R F' U'               Length: 9              Run time: 0.140625
+Solution: U F2 R2 F' R U' R' F2 R'               Length: 9              Run time: 0.21875
+Solution: R2 U' R' F U' F2 U' R               Length: 8              Run time: 0.125
+Solution: F2 U R' U F U' F               Length: 7              Run time: 0.03125
+Solution: F U2 R F2 U' R F2 U' R U               Length: 10              Run time: 0.703125
+Solution: F U' F U2 R' F R U' R U2               Length: 10              Run time: 0.75
+Solution: U2 F U' F' R F' R F' U2               Length: 9              Run time: 0.1875
+Solution: U F2 R2 U F' U2 R2 F' U2               Length: 9              Run time: 0.203125
+Solution: R' U R U2 F' R' F2 U2 R' U'               Length: 10              Run time: 0.6875
+Solution: R F R2 U' F' U2 R2 F' R'               Length: 9              Run time: 0.21875
+Solution: R2 F2 R U2 R F R2 U F U'               Length: 10              Run time: 0.703125
+Solution: F' R' U2 R U R2 U' F2 U2               Length: 9              Run time: 0.203125
+Solution: U2 F' R U R2 U R' U R2 U'               Length: 10              Run time: 0.6875
+Solution: R' U R' F2 R' F' U R' U'               Length: 9              Run time: 0.125
+Solution: U' F' U' F R2 U' R F'               Length: 8              Run time: 0.125
+Solution: F R' U2 R' U F' U R2               Length: 8              Run time: 0.125
+Solution: U' F R2 F R' F R' U               Length: 8              Run time: 0.09375
+Solution: F' R' U2 R' F' R2 U' R U               Length: 9              Run time: 0.15625
+Solution: U F R2 U2 R' F U' R F2 U2               Length: 10              Run time: 0.78125
+Solution: R' F R' F R2 U2 F2 U'               Length: 8              Run time: 0.09375
+Solution: F U R2 U' R F2 U2 F'               Length: 8              Run time: 0.125
+Solution: R2 U2 F U' F R2 U2 R'               Length: 8              Run time: 0.109375
+Solution: F R' F R' F2 U R' F2 U2               Length: 9              Run time: 0.21875
+Solution: U' R2 U' F R' U R'               Length: 7              Run time: 0.015625
+Solution: F U F2 R U2 R U' F2 U'               Length: 9              Run time: 0.15625
+Solution: R2 F2 R' F R U' F2 U               Length: 8              Run time: 0.109375
+Solution: R F' R2 F' U2 R U               Length: 7              Run time: 0.015625
+Solution: U' F' R2 F R2 U2 F' U' R U'               Length: 10              Run time: 0.6875
+Solution: F2 R F' U' F U2 F2 U' R2               Length: 9              Run time: 0.28125
+Solution: F2 U2 F R' U F' R2 U               Length: 8              Run time: 0.109375
+Solution: U R' F2 U R' U F' R2 U               Length: 9              Run time: 0.15625
+Solution: F2 R U' R' U R F U2               Length: 8              Run time: 0.109375
+Solution: R2 U2 F U F' U R U2 F' U'               Length: 10              Run time: 0.703125
+Solution: U2 F2 R U2 R F R2               Length: 7              Run time: 0.03125
+Solution: F U2 F U' R' F' U F R               Length: 9              Run time: 0.265625
+Solution: F U2 F2 U R' U2 F R' U               Length: 9              Run time: 0.15625
+Solution: U2 F R' F U2 F2 R F' U'               Length: 9              Run time: 0.140625
+Solution: U2 F' U' R U R' F2 U'               Length: 8              Run time: 0.109375
+Solution: F' R U' R U' F' R2 F2 U'               Length: 9              Run time: 0.171875
+Solution: F2 U2 R2 F' R F U F'               Length: 8              Run time: 0.140625
+Solution: U2 F2 U R U2 F2 U' F R               Length: 9              Run time: 0.265625
+Solution: F' R U R2 F' U R' U2 R               Length: 9              Run time: 0.25
+Solution: R U2 R F' U R' U F U'               Length: 9              Run time: 0.15625
+Solution: U' F2 R U R2 U F2 R' U               Length: 9              Run time: 0.15625
+Solution: F R' F2 R' U' R U'               Length: 7              Run time: 0.015625
+Solution: F2 R' U2 R F' R F2 R'               Length: 8              Run time: 0.109375
+Solution: U' R F2 R2 F' U2 F' R2 U'               Length: 9              Run time: 0.140625
+Solution: U' R2 F U' F U' F U' R U               Length: 10              Run time: 0.71875
+Solution: R F' U R U' R U2 R               Length: 8              Run time: 0.109375
+Solution: F' U' F R' F2 R' U F' U2               Length: 9              Run time: 0.203125
+Solution: U2 R' U2 R U F2 R' U' R2 U               Length: 10              Run time: 0.765625
+Solution: U F R' U2 R2 U' R' U2 R'               Length: 9              Run time: 0.21875
+Solution: R F' U2 R2 U' F2 R2 U R' U'               Length: 10              Run time: 0.703125
+Solution: U' F2 U R F2 R F' R' F2 U2               Length: 10              Run time: 0.75
+Solution: R F2 U' F R2 F R2 U F               Length: 9              Run time: 0.34375
+Solution: U' R2 F U' F' R2 F R' U2               Length: 9              Run time: 0.171875
+Solution: U2 R F' U' R U' F2 U'               Length: 8              Run time: 0.09375
+Solution: F R2 U F U2 F2 R U' F               Length: 9              Run time: 0.3125
+Solution: F' U' R U' F U F' R F               Length: 9              Run time: 0.34375
+Solution: F2 R U' R2 U' R' F R' U R'               Length: 10              Run time: 0.75
+Solution: F2 R U2 F' R F2 R' U2 F U2               Length: 10              Run time: 0.765625
+Solution: R U' R F R U' F2 R F U'               Length: 10              Run time: 0.71875
+Solution: R2 F R' U F2 U F' U2 F               Length: 9              Run time: 0.328125
+Solution: U' F' U F2 U               Length: 5              Run time: 0.0
+Solution: R' F R U2 R' U2 R' F2 U'               Length: 9              Run time: 0.15625
+Solution: R U2 R F2 U R U F' R'               Length: 9              Run time: 0.25
+Solution: F2 R' U R2 U' F2 U' R F U               Length: 10              Run time: 0.75
+Solution: U2 F' U F R' F R2 U2 F'               Length: 9              Run time: 0.3125
+Solution: R F' U R2 U R' U2 R F'               Length: 9              Run time: 0.359375
+Solution: F' U2 F R2 U F' R F2 U' R'               Length: 10              Run time: 0.78125
+Solution: F U2 F' R U F2 U2 F' U2               Length: 9              Run time: 0.21875
+Solution: R2 U R F2 U2 F' R' F2 U'               Length: 9              Run time: 0.15625
+Solution: U2 F' U R' F R' F U R' U               Length: 10              Run time: 0.796875
+Solution: U2 F' U R2 F' R' U2 R' U2 R               Length: 10              Run time: 0.890625
+Solution: F2 U' R F2 R' F R2 U'               Length: 8              Run time: 0.09375
+Solution: U F' R' U2 F U2 F R2               Length: 8              Run time: 0.140625
+Solution: U' F U' F2 U' R' U F2 R               Length: 9              Run time: 0.265625
+Solution: U2 F' U' R U' F2 U2 R2               Length: 8              Run time: 0.15625
+Solution: U2 F R' U2 R U F' R U               Length: 9              Run time: 0.1875
+Solution: U' F2 U' F R2 F R2 U F               Length: 9              Run time: 0.359375
+Solution: F U R F2 R U R' U R'               Length: 9              Run time: 0.265625
+Solution: R F2 U2 F' R2 F' R' U               Length: 8              Run time: 0.125
+Solution: U F R' U2 F' U F2 R F U               Length: 10              Run time: 0.8125
+Solution: F' U F2 U2 R U' F2 R2 U2               Length: 9              Run time: 0.234375
+Solution: F2 R2 F' R' F2 U' R2 U' F               Length: 9              Run time: 0.40625
+Solution: F' R' U R2 F2 R' U R U'               Length: 9              Run time: 0.140625
+Solution: R' F U' F2 U2 R U' F'               Length: 8              Run time: 0.125
+Solution: U2 F U' F U2 F' U' F R'               Length: 9              Run time: 0.28125
+Solution: F R2 F R' U' F R2 U'               Length: 8              Run time: 0.109375
+Solution: U' F' U' R2 F R U2 R U               Length: 9              Run time: 0.171875
+Solution: R2 U R2 U' F' R2 U F R2 U'               Length: 10              Run time: 0.84375
+Solution: U2 F R' U' F' U F2 U' R U               Length: 10              Run time: 0.828125
+Solution: U2 F2 R2 F' U F2 R F'               Length: 8              Run time: 0.140625
+Solution: R2 F U' R2 U' R2 F U F'               Length: 9              Run time: 0.359375
+Solution: U' F U2 F2 R2 U' R U2 F'               Length: 9              Run time: 0.328125
+Solution: R' F2 R' U2 R F2 U' F R U'               Length: 10              Run time: 0.75
+Solution: U' R U2 F R F R' U R'               Length: 9              Run time: 0.25
+Solution: U2 R2 F' R F U2 R' U'               Length: 8              Run time: 0.109375
+Solution: U2 F U2 F R' F2 U2 R U'               Length: 9              Run time: 0.140625
+Solution: U' R2 U R' U F' R F' U2               Length: 9              Run time: 0.203125
+Solution: U F R2 U' F2 U F2 R' U               Length: 9              Run time: 0.1875
+Solution: R U2 F' U2 F2 U' F' U R2               Length: 9              Run time: 0.296875
+Solution: U' R2 F' R2 F' U F' R               Length: 8              Run time: 0.125
+Solution: U R U' F R F U' F               Length: 8              Run time: 0.125
+Solution: R' F2 U F U2 F' R2 U R2               Length: 9              Run time: 0.296875
+Solution: F' U F' U' F' R2 F' U F'               Length: 9              Run time: 0.3125
+Solution: F2 R2 U' F' U R' U' F               Length: 8              Run time: 0.140625
+Solution: F' R' U R U2 R2 F U' R'               Length: 9              Run time: 0.25
+Solution: F2 U' F U' R U' F2 U2 F'               Length: 9              Run time: 0.328125
+Solution: U2 F' R' U2 R2 U' F' R U'               Length: 9              Run time: 0.140625
+Solution: F' R U R' U' F' R' U               Length: 8              Run time: 0.09375
+Solution: F2 U' R' F2 U F' U2 R F2               Length: 9              Run time: 0.421875
+Solution: F' U' R2 F R U' R U' F               Length: 9              Run time: 0.34375
+Solution: R2 F U' F' U2 F2 R U' R2               Length: 9              Run time: 0.28125
+Solution: U F' R2 F' U F2 R F2 R2               Length: 9              Run time: 0.3125
+Solution: F R' F U' R2 U' R' U2               Length: 8              Run time: 0.109375
+Solution: U2 R2 U' R' F2 U R' U R'               Length: 9              Run time: 0.21875
+Solution: F U' R' F R2 F2               Length: 6              Run time: 0.015625
+Solution: F U2 R F' U2 R U R F               Length: 9              Run time: 0.34375
+Solution: U2 F U' R U' R2 F               Length: 7              Run time: 0.046875
+Solution: F2 R2 F R2 F' R2 U F' R'               Length: 9              Run time: 0.21875
+Solution: U2 F2 R U' R F U' F2 U               Length: 9              Run time: 0.203125
+Solution: F2 U' F' U' R2 U' R2 U F' U               Length: 10              Run time: 0.734375
+Solution: R' F2 R' F' R U R2 F' U' R'               Length: 10              Run time: 0.796875
+Solution: R' F R U' F2 R' F               Length: 7              Run time: 0.046875
+Solution: R F R2 U' R' F2 R' U               Length: 8              Run time: 0.09375
+Solution: U' R U R' U2 R2 U' F2               Length: 8              Run time: 0.140625
+Solution: U2 F2 R' F2 R2 F' U F2               Length: 8              Run time: 0.125
+Solution: F R2 U F' R U' R' F'               Length: 8              Run time: 0.125
+Solution: U R' F' U' R' U2 R' F'               Length: 8              Run time: 0.125
+Solution: U F' U2 F U F' U               Length: 7              Run time: 0.015625
+Solution: R2 U' F2 R F' U F' R               Length: 8              Run time: 0.125
+Solution: R F U2 R' F' R2 U R2 U2               Length: 9              Run time: 0.1875
+Solution: F2 R F' U F' U2 R' U2               Length: 8              Run time: 0.109375
+Solution: R2 U R U F' R' F2 U2               Length: 8              Run time: 0.09375
+Solution: R2 U R F2 U' F R2 F U2               Length: 9              Run time: 0.203125
+Solution: R F R U F2 R F2               Length: 7              Run time: 0.046875
+Solution: U R2 F R' F' U R2 U               Length: 8              Run time: 0.109375
+Solution: R U2 R2 F2 R' U F2 R U'               Length: 9              Run time: 0.140625
+Solution: U' F' U' F' R2 U R F' U'               Length: 9              Run time: 0.15625
+Solution: R F' R U2 F2 R U2 R F U'               Length: 10              Run time: 0.6875
+Solution: R2 U R2 F R U F2 R2               Length: 8              Run time: 0.109375
+Solution: F U R' U' F2 U' F U2 R               Length: 9              Run time: 0.25
+Solution: U2 R' U2 R' F U' R2 F2               Length: 8              Run time: 0.140625
+Solution: F U' R F' U F' R' U2 F2               Length: 9              Run time: 0.359375
+Solution: R U F' R F' U R2 U' R2               Length: 9              Run time: 0.265625
+Solution: F' R' U F R2 U' R' U2 F               Length: 9              Run time: 0.328125
+Solution: F R' F U R2 U' R U'               Length: 8              Run time: 0.09375
+Solution: U R' F U F' R2 U2 F2               Length: 8              Run time: 0.140625
+Solution: F R2 U' F' R F2 U' R               Length: 8              Run time: 0.109375
+Solution: U2 F R' U2 R' F R F R2               Length: 9              Run time: 0.265625
+Solution: F2 R2 U F' R' U R2 F' U               Length: 9              Run time: 0.171875
+Solution: R2 F2 U R' U R U' R2 F U'               Length: 10              Run time: 0.734375
+Solution: R U F2 U' R2 F U F2 U'               Length: 9              Run time: 0.140625
+Solution: F2 R' U' F U2 F U2 F R2 U'               Length: 10              Run time: 0.703125
+Solution: R2 U R2 U F U' R' U R'               Length: 9              Run time: 0.203125
+Solution: R F U' R2 U' F2 R2 U2 R' U'               Length: 10              Run time: 0.671875
+Solution: U R2 U' F' U R U' F U2               Length: 9              Run time: 0.21875
+Solution: U F2 R2 U' F R U' R2 F2               Length: 9              Run time: 0.359375
+Solution: U' R U' F2 U F' R               Length: 7              Run time: 0.03125
+Solution: U2 R2 F' R F R' F2 R               Length: 8              Run time: 0.125
+Solution: R' U2 F2 R F' R U'               Length: 7              Run time: 0.015625
+Solution: U2 R2 U' R U2 F' U' F' U2               Length: 9              Run time: 0.1875
+Solution: U2 F' R2 U' F2 U' R2               Length: 7              Run time: 0.03125
+Solution: F' U' R' U2 R' F' R F' R2 U'               Length: 10              Run time: 0.71875
+Solution: U R U' F U' R2 F U2 F'               Length: 9              Run time: 0.296875
+Solution: F U' F U' F2 R U' R U               Length: 9              Run time: 0.15625
+Solution: F' U' R F' U' R U' F' U'               Length: 9              Run time: 0.15625
+Solution: F2 R' U' F' R U' R U2 R2               Length: 9              Run time: 0.296875
+Solution: F R' U2 R' F' U R' F R2               Length: 9              Run time: 0.28125
+Solution: F' R F' U R F U2 R' F'               Length: 9              Run time: 0.3125
+Solution: F' U2 R2 F' R U' R U' R               Length: 9              Run time: 0.234375
+Solution: R U' R' F' U2 F' R F' U2               Length: 9              Run time: 0.203125
+Solution: F U2 R2 U R2 U R' F'               Length: 8              Run time: 0.125
+Solution: U' F' R2 U R' F' R2 U2 F2               Length: 9              Run time: 0.359375
+Solution: R' F2 U2 R' U2 R' U F               Length: 8              Run time: 0.125
+Solution: U' F R' U R2 F' R U2 R' U               Length: 10              Run time: 0.71875
+Solution: R' U F2 R2 F' U' F2 R2 F'               Length: 9              Run time: 0.328125
+Solution: U' R' U F' U F' U2 F' R U'               Length: 10              Run time: 0.703125
+Solution: U2 R' U' F U2 F R2 U2 F'               Length: 9              Run time: 0.328125
+Solution: R' F R' F U2 F' R' F U2               Length: 9              Run time: 0.21875
+Solution: U R' U R' U2 F2 U'               Length: 7              Run time: 0.015625
+Solution: F R2 U F2 U F R' U'               Length: 8              Run time: 0.109375
+Solution: R' F U2 R' U F U F' R' U2               Length: 10              Run time: 0.75
+Solution: R F' U F U' R2 U' R2 U'               Length: 9              Run time: 0.140625
+Solution: U' F U F' U' F R' F'               Length: 8              Run time: 0.125
+Solution: F2 R' U' F' R U2 R' F U2               Length: 9              Run time: 0.21875
+Solution: R F2 U F' U' R2 U R'               Length: 8              Run time: 0.109375
+Solution: F' U2 F R' U2 R' U' F U'               Length: 9              Run time: 0.15625
+Solution: R2 U F R F' R' F2 R2               Length: 8              Run time: 0.109375
+Solution: F R' F' R F' U' F R2 U'               Length: 9              Run time: 0.140625
+Solution: R2 F' R2 F2 R' F R U R'               Length: 9              Run time: 0.203125
+Solution: F R' U' F2 R2 U' F' U'               Length: 8              Run time: 0.09375
+Solution: R' F R2 F2 U2 F' R2 F R2               Length: 9              Run time: 0.296875
+Solution: U F' R2 F2 R' F2 R' U2 F'               Length: 9              Run time: 0.3125
+Solution: R2 F2 U R U2 F' R U2 R2               Length: 9              Run time: 0.265625
+Solution: F2 R U' R2 U R' U' F' R2               Length: 9              Run time: 0.28125
+Solution: F' U2 F U F2 R' F U' F U'               Length: 10              Run time: 0.703125
+Solution: F U' F2 R F' R U' F R2               Length: 9              Run time: 0.28125
+Solution: U2 F U' R F' R' F2 U               Length: 8              Run time: 0.09375
+Solution: F' R2 F' U2 R U R2 U R' U               Length: 10              Run time: 0.78125
+Solution: R U' F' U F2 R2 F' U2 F' U'               Length: 10              Run time: 0.734375
+Solution: F' R2 F R' F' U2 F' U' R2               Length: 9              Run time: 0.25
+Solution: R' F R' U2 R' F' U F'               Length: 8              Run time: 0.125
+Solution: R F' R' F2 R' F U R2 U'               Length: 9              Run time: 0.140625
+Solution: U' R F R F' R2 U R' U R'               Length: 10              Run time: 0.765625
+Solution: F2 R F' R2 F2 U R' F' U'               Length: 9              Run time: 0.140625
+Solution: U F U F R' U R U2 R               Length: 9              Run time: 0.25
+Solution: F' R F' U' F2 R F2 U' F'               Length: 9              Run time: 0.296875
+Solution: F' R F' U2 F' U R' U2               Length: 8              Run time: 0.109375
+Solution: F2 U2 R' U' F' U2 F' R'               Length: 8              Run time: 0.109375
+Solution: F U' R U R2 F' R' F R               Length: 9              Run time: 0.25
+Solution: R2 F U' R' U' F U' R2 U               Length: 9              Run time: 0.171875
+Solution: F U2 F U R' F R2 F' R'               Length: 9              Run time: 0.21875
+Solution: U2 R' F' U2 R U' F' U' F'               Length: 9              Run time: 0.296875
+Solution: R2 U R' U F2 U' F2 U R'               Length: 9              Run time: 0.21875
+Solution: U F' R2 U F' U' F U               Length: 8              Run time: 0.09375
+Solution: U2 F R' U2 R U R2 F' U'               Length: 9              Run time: 0.140625
+Solution: R' U F' R2 F U F2 R2               Length: 8              Run time: 0.125
+Solution: U2 F' U2 R' F' R2 U2 F' U'               Length: 9              Run time: 0.140625
+Solution: F' U R' F2 U F R' F2 U'               Length: 9              Run time: 0.140625
+Solution: U' R F2 R' F' R2 F R' U               Length: 9              Run time: 0.171875
+Solution: F2 U F R' U2 F U F' U               Length: 9              Run time: 0.171875
+Solution: R' U R2 U R U F' U               Length: 8              Run time: 0.109375
+Solution: F2 U F2 R F' U' R U               Length: 8              Run time: 0.09375
+Solution: F2 R2 F' U F' U R2 U' R2 U2               Length: 10              Run time: 0.71875
+Solution: R' F' R' U2 F' U F' U               Length: 8              Run time: 0.109375
+Solution: U R2 U R2 F' R2 F' U2 F               Length: 9              Run time: 0.34375
+Solution: F R2 F' R F' R U' F2 R'               Length: 9              Run time: 0.21875
+Solution: R2 U' R2 U' F U' F2 R'               Length: 8              Run time: 0.09375
+Solution: U' R2 U' F2 U2 R F' R U               Length: 9              Run time: 0.171875
+Solution: F U F2 R2 U R' F' U' F2 U2               Length: 10              Run time: 0.765625
+Solution: U2 R2 F U' R F' U' F' U R2               Length: 10              Run time: 0.8125
+Solution: R2 F R2 F' R U2 F' R2 F               Length: 9              Run time: 0.40625
+Solution: F2 R U R U2 R U F' U               Length: 9              Run time: 0.1875
+Solution: U R2 F2 U R' U F U               Length: 8              Run time: 0.109375
+Solution: U2 R2 U' R' F U F2 R' F' U'               Length: 10              Run time: 0.90625
+Solution: R' F' R' F2 R2 U2 R' U F2 U2               Length: 10              Run time: 1.03125
+Solution: R2 F2 U F2 U' F R' U               Length: 8              Run time: 0.140625
+Solution: R F2 R' U F' R' U2 R2 F               Length: 9              Run time: 0.59375
+Solution: F' R' F R' U' R2 U' R F2               Length: 9              Run time: 0.421875
+Solution: R F2 U2 R2 U' F U2               Length: 7              Run time: 0.03125
+Solution: R F' U2 R' U2 R' F R2 F' U'               Length: 10              Run time: 0.765625
+Solution: U2 F2 R2 F' U R' F U2               Length: 8              Run time: 0.140625
+Solution: F' R F2 R U2 F' U F R'               Length: 9              Run time: 0.265625
+Solution: F R2 U R' U' F' U2 F2 R2               Length: 9              Run time: 0.3125
+Solution: R F R2 F' R U F' R2               Length: 8              Run time: 0.140625
+Solution: F2 R U' R' U F'               Length: 6              Run time: 0.015625
+Solution: U' R' F U2 F' R' U R2 F2               Length: 9              Run time: 0.40625
+Solution: R F R U' R F2 U2 R U'               Length: 9              Run time: 0.140625
+Solution: F' U2 F R F' R F' U' R' U'               Length: 10              Run time: 0.734375
+Solution: U' F2 R F' R F' R U' F               Length: 9              Run time: 0.359375
+Solution: F2 R2 F U' F U' F U' R' U'               Length: 10              Run time: 0.75
+Solution: F2 R2 U F' U2 R F U' R U'               Length: 10              Run time: 0.765625
+Solution: R U' R F' R F2 R' U' F2 U               Length: 10              Run time: 0.796875
+Solution: U2 R' U2 F U' F' R2 F2               Length: 8              Run time: 0.140625
+Solution: R U2 R' U F' R2 U2 F' R U               Length: 10              Run time: 0.796875
+Solution: R' F2 R' U F U' F' U F' U2               Length: 10              Run time: 0.875
+Solution: F' R' U R U F' R' F R               Length: 9              Run time: 0.28125
+Solution: U2 F U2 R' F' R U' F2 U2               Length: 9              Run time: 0.21875
+Solution: U F' U F' U R2 F' U' F2 U'               Length: 10              Run time: 0.78125
+Solution: U F2 R2 U2 R' U2 R' U' R2               Length: 9              Run time: 0.28125
+Solution: F' R' U R2 F' U F2 U               Length: 8              Run time: 0.125
+Solution: U R U2 F' U2 F U' F2 U'               Length: 9              Run time: 0.15625
+Solution: R' U2 R' F U R U R2 U2               Length: 9              Run time: 0.21875
+Solution: R2 F' U F' R2 F R U' F               Length: 9              Run time: 0.359375
+Solution: R F' U F2 U' R2 U F' R               Length: 9              Run time: 0.296875
+Solution: U' R' F' U2 R F' R U R2 U               Length: 10              Run time: 1.015625
+Solution: U R U' F2 U' F2 R2 U' R'               Length: 9              Run time: 0.21875
+Solution: R F' R' U2 R' F U2 R2 U'               Length: 9              Run time: 0.171875
+Solution: U F' U' F2 R U F2 U'               Length: 8              Run time: 0.109375
+Solution: F' R U2 R' F2 U F' R' F U2               Length: 10              Run time: 0.84375
+Solution: R F' R2 F2 U2 F' U2 F U               Length: 9              Run time: 0.1875
+Solution: U2 F U' F2 U R' U' R2 U               Length: 9              Run time: 0.171875
+Solution: R' F' U R2 F' U' F R2 U               Length: 9              Run time: 0.171875
+Solution: U2 R2 U F' R U' R F U'               Length: 9              Run time: 0.171875
+Solution: F2 U2 F R2 U' F' R2 F               Length: 8              Run time: 0.140625
+Solution: U F2 R' F' R2 F' R               Length: 7              Run time: 0.03125
+Solution: R2 F R2 U' R2 U R F2 U               Length: 9              Run time: 0.21875
+Solution: F' R F R' U2 F R F R               Length: 9              Run time: 0.296875
+Solution: U2 R2 F' U F R' U2 F2 R' U               Length: 10              Run time: 0.84375
+Solution: F2 U F' R2 F2 U2 F' U' R'               Length: 9              Run time: 0.296875
+Solution: F' U R2 F' R2 F2 U' F' R U2               Length: 10              Run time: 0.90625
+Solution: F U' R U2 R F2 R F R               Length: 9              Run time: 0.28125
+Solution: U2 F' R F' U' F R' F2 R'               Length: 9              Run time: 0.3125
+Solution: F R U' R U' R' U2 F R               Length: 9              Run time: 0.375
+Solution: U' R F2 U' F R2 F R F               Length: 9              Run time: 0.390625
+Solution: R F' R F' U2 F' R2 F2 U'               Length: 9              Run time: 0.171875
+Solution: F' R2 F' U R2 F' U' F2 U'               Length: 9              Run time: 0.1875
+Solution: U F' U2 F R2 F R F2 U'               Length: 9              Run time: 0.15625
+Solution: U2 R U' R F R' F2 U F'               Length: 9              Run time: 0.34375
+Solution: F' U R F' R F2 R U2 R2               Length: 9              Run time: 0.28125
+Solution: F2 U' F R2 U' F' R2 U2 F2               Length: 9              Run time: 0.40625
+Solution: F U2 R2 U' F2 R' U F2 U'               Length: 9              Run time: 0.171875
+Solution: F' U2 F U' F2 R U' R' U'               Length: 9              Run time: 0.15625
+Solution: U' R U R F' R2 F R' F U'               Length: 10              Run time: 0.71875
+Solution: R2 U F R' F U2 F' R U               Length: 9              Run time: 0.171875
+Solution: F2 U2 F' R' U2 F2 U' F2 U'               Length: 9              Run time: 0.15625
+Solution: U' F U2 F U' R F R'               Length: 8              Run time: 0.109375
+Solution: R U' R' U2 R F2 U' R U'               Length: 9              Run time: 0.140625
+Solution: U' F2 R' U' F2 U R' U2 R'               Length: 9              Run time: 0.21875
+Solution: F2 R' F2 R U' F R' F               Length: 8              Run time: 0.125
+Solution: U F U2 F R U2 R F' R'               Length: 9              Run time: 0.234375
+Solution: U2 R U F2 R' U F R2 F               Length: 9              Run time: 0.34375
+Solution: F R2 U' R2 U F2 R' F2 R U2               Length: 10              Run time: 0.765625
+Solution: F' U R U2 R U' R2 F2               Length: 8              Run time: 0.140625
+Solution: F' R2 F' U R' F' R U' R'               Length: 9              Run time: 0.21875
+Solution: U F R2 U' F U' R2 F2 U2               Length: 9              Run time: 0.21875
+Solution: F2 R U F' U2 R2 F R U'               Length: 9              Run time: 0.15625
+Solution: U R F2 U' R F' R F' U2               Length: 9              Run time: 0.21875
+Solution: U2 R2 U' F' R' U2 F2 U' R'               Length: 9              Run time: 0.21875
+Solution: U2 R2 U F R' F2 U' F2 R'               Length: 9              Run time: 0.25
+Solution: U F U' R F' U2 R2 U' R               Length: 9              Run time: 0.25
+Solution: U F R2 F R U2 R' U' R2               Length: 9              Run time: 0.28125
+Solution: F R' U F' R2 F' R U' R               Length: 9              Run time: 0.25
+Solution: F' U2 F' R U F' R' U               Length: 8              Run time: 0.09375
+Solution: F2 U R' F2 R F2 R F R' U'               Length: 10              Run time: 0.75
+Solution: R' U2 R' U R2               Length: 5              Run time: 0.0
+Solution: U' F' U2 F' R U2 F U'               Length: 8              Run time: 0.09375
+Solution: U2 R' U R2 F' R' U' R'               Length: 8              Run time: 0.125
+Solution: U F' R' U R' F2 R' F2 U               Length: 9              Run time: 0.171875
+Solution: R2 F2 R U2 R U' F2               Length: 7              Run time: 0.046875
+Solution: U R U' R2 F2 R' F' U R               Length: 9              Run time: 0.28125
+Solution: U R' U R2 U' R2 F U' R               Length: 9              Run time: 0.25
+Solution: U2 F U2 F U F2 U' R2 U2               Length: 9              Run time: 0.203125
+Solution: U R' U R2 U F' U2 F U               Length: 9              Run time: 0.1875
+Solution: F U F2 U R' F2 R U'               Length: 8              Run time: 0.09375
+Solution: F2 R2 F R2 F U' F U' R               Length: 9              Run time: 0.265625
+Solution: R2 F2 R' F R' F2 R' U' R2               Length: 9              Run time: 0.265625
+Solution: F2 R' U' R2 F2 U' R2 U' R U2               Length: 10              Run time: 0.765625
+Solution: R2 U2 R' F2 U2 R U' R F U'               Length: 10              Run time: 0.75
+Solution: R U R U' F2 R2 F' R U2               Length: 9              Run time: 0.1875
+Solution: R2 F R' U' F2 U' R2 F R' U               Length: 10              Run time: 0.75
+Solution: R2 F' R2 U F2 U' R               Length: 7              Run time: 0.03125
+Solution: F U2 R F U2 R U'               Length: 7              Run time: 0.03125
+Solution: F' U2 R' U R U' R2               Length: 7              Run time: 0.03125
+Solution: U F' R2 F' R U F U               Length: 8              Run time: 0.109375
+Solution: R F2 R2 F U F2 R' F' R2               Length: 9              Run time: 0.296875
+Solution: F2 R U R2 F' U F U2 F               Length: 9              Run time: 0.328125
+Solution: F' U2 R2 U' F R' F R' U'               Length: 9              Run time: 0.125
+Solution: F2 U' R2 U F' R U F'               Length: 8              Run time: 0.125
+Solution: U' F2 U' F' R2 U R2 U2               Length: 8              Run time: 0.109375
+Solution: F' R U' R2 U' R2 F U' R2 U'               Length: 10              Run time: 0.734375
+Solution: U2 R2 F' U R' U2 F U' R2               Length: 9              Run time: 0.265625
+Solution: F' R2 U' F U' F2 U2 F'               Length: 8              Run time: 0.140625
+Solution: U' F U2 F R' F' R               Length: 7              Run time: 0.046875
+Solution: R' F' R U' F2 R2 F' R2 U               Length: 9              Run time: 0.171875
+Solution: F U' R2 U F' R F2 R'               Length: 8              Run time: 0.125
+Solution: R U2 R' F R2 F' U2 F R2 U'               Length: 10              Run time: 0.703125
+Solution: R' F R' F' U' R' U2 R U'               Length: 9              Run time: 0.15625
+Solution: F' U R F U' F2 R F' U'               Length: 9              Run time: 0.15625
+Solution: F U' R2 U2 R' U' F               Length: 7              Run time: 0.046875
+Solution: F2 R' U R2 U F U2 F R2               Length: 9              Run time: 0.296875
+Solution: R2 F' R2 F R' F' R F2 U2               Length: 9              Run time: 0.21875
+Solution: R' U' R2 F U R2 F' R' U'               Length: 9              Run time: 0.125
+Solution: F2 R U R U2 F R2 F2 U2               Length: 9              Run time: 0.21875
+Solution: R F2 R' U R2 F2 U R2 U               Length: 9              Run time: 0.171875
+Solution: F' U R' F' R U' F2 U' R'               Length: 9              Run time: 0.21875
+Solution: U F2 R2 F' R U2 R' F U'               Length: 9              Run time: 0.15625
+Solution: F2 R U' F2 R U' F2 R' U'               Length: 9              Run time: 0.125
+Solution: U2 F R2 U F' U' R F2               Length: 8              Run time: 0.125
+Solution: F U2 R U' F U2 R' U'               Length: 8              Run time: 0.09375
