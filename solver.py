@@ -80,55 +80,56 @@ class Cube:
         for move in scramble:
             movesKey[move]()
 
-    def Solve(self):
+    def FastSolve(self):
         moves = ["U", "U'", "U2", "R", "R'", "R2", "F", "F'", "F2"]
 
         scrambledPos = [[j for j in i] for i in self.pos]
 
         algs = [[[]]]
 
-        posList = {}
+        scrambledPosDict = {}
+        solvedPosDict = {tuple([tuple(i) for i in self.solvedPos]): []}
 
-        # god's number is 11 and we will be attacking this both from the scrambled state and solved state
-        # so we only need to search through depth 5 for the scrambled state, and depth 6 for the solved state (below)
+        poses = (scrambledPos, self.solvedPos)
+        posDicts = (scrambledPosDict, solvedPosDict)
+
         for i in range(6):
-            # create list for algs of length i + 1
+
+            resetPos = poses[i % 2]
+            addingPosDict = posDicts[i % 2]
+            checkingPosDict = posDicts[(i + 1) % 2]
+
             algs.append([])
 
-            # iterate through algs of length i
             for alg in algs[i]:
-                # perform alg on scrambled cube
-                self.pos = [[j for j in i] for i in scrambledPos]
+                self.pos = [[j for j in i] for i in resetPos]
                 self.Scramble(alg)
 
-                # add position reached to posList if not already there
-                # set its value as the alg used to reach it from scrambled state
                 posTuple = tuple([tuple(i) for i in self.pos])
-                if posTuple not in posList:
-                    posList[posTuple] = alg
+                if posTuple in checkingPosDict:
+                    solution = alg + self.Inverse(checkingPosDict[posTuple])
+                    if i % 2 == 1:
+                        solution = self.Inverse(solution)
+                    return solution
 
-                # add algs of length i + 1 with "alg" as a prefix to the list of length i + 1 algs
+            for alg in algs[i]:
+                self.pos = [[j for j in i] for i in resetPos]
+                self.Scramble(alg)
+                algPos = [[j for j in i] for i in self.pos]
+
                 for move in moves:
-                    if i == 0:
-                        algs[i + 1].append(alg + [move])
-                    elif alg[-1][0] != move[0]:
-                        algs[i + 1].append(alg + [move])
-
-            # iterate through algs of length i and i + 1
-            for j in (i, i + 1):
-                for alg in algs[j]:
-                    # perform alg on solved cube
-                    self.pos = [[j for j in i] for i in self.solvedPos]
-                    self.Scramble(alg)
-
-                    # check if position is recorded in posList
-                    # if so then you found the optimal solution
-                    # just "glue" the 2 algs together :D
+                    self.pos = [[j for j in i] for i in algPos]
+                    self.Scramble([move])
                     posTuple = tuple([tuple(i) for i in self.pos])
-                    if posTuple in posList:
-                        return posList[posTuple] + self.Inverse(alg)
 
-
+                    if posTuple not in addingPosDict:
+                        if tuple([tuple(i) for i in self.pos]) in checkingPosDict:
+                            solution = alg + [move] + self.Inverse(checkingPosDict[tuple([tuple(i) for i in self.pos])])
+                            if i % 2 == 1:
+                                solution = self.Inverse(solution)
+                            return solution
+                        addingPosDict[posTuple] = alg + [move]
+                        algs[i + 1].append(alg + [move])
 
 
 cube = Cube()
@@ -143,12 +144,17 @@ numScrambles = 0
 for line in f:
     print(numScrambles + 1)
     scram = line.strip()
+
     cube.Scramble(scram.split())
     startTime = time.process_time()
-    solution = cube.Solve()
+    solution = cube.FastSolve()
     runTime = time.process_time() - startTime
     runTimes[len(solution)].append(runTime)
-    g.write("Solution: {}               Length: {}              Run time: {}\n".format(' '.join(solution), len(solution), runTime))
+
+    cube.pos = [[j for j in i] for i in cube.solvedPos]
+
+    g.write("Solution: {}           Length: {}          Run time: {}\n"
+            .format(' '.join(solution), len(solution), runTime))
     cube.pos = [[j for j in i] for i in cube.solvedPos]
     numScrambles += 1
 
@@ -162,9 +168,16 @@ for i in range(12):
 averageLength /= numScrambles
 averageRunTime /= numScrambles
 
+flatRuntimes = []
+for i in runTimes:
+    flatRuntimes += i
+
 h.write("Number of scrambles: {}\n".format(numScrambles))
 h.write("Average solution length: {}\n".format(averageLength))
-h.write('Average run time: {}\n\n'.format(averageRunTime))
+h.write("Average run time: {}\n".format(averageRunTime))
+h.write("Best run time: {}\n".format(min(flatRuntimes)))
+h.write("Worst run time: {}\n".format(max(flatRuntimes)))
+h.write("\n")
 
 for i in range(12):
     avg = 0
